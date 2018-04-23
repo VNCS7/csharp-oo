@@ -1,0 +1,14 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\HerancaEmpregado\bin\Debug\HerancaEmpregado.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\HerancaEmpregado\bin\Debug\HerancaEmpregado.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\HerancaEmpregado\obj\x86\Debug\HerancaEmpregado.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\HerancaEmpregado\obj\x86\Debug\HerancaEmpregado.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\HerancaEmpregado\HerancaEmpregado\obj\x86\Debug\HerancaEmpregado.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\HerancaEmpregado\HerancaEmpregado\obj\x86\Debug\HerancaEmpregado.pdb
+E:\HerancaEmpregado\HerancaEmpregado\obj\x86\Debug\HerancaEmpregado.exe
+E:\HerancaEmpregado\HerancaEmpregado\obj\x86\Debug\HerancaEmpregado.pdb
+E:\HerancaEmpregado\HerancaEmpregado\bin\Debug\HerancaEmpregado.exe
+E:\HerancaEmpregado\HerancaEmpregado\bin\Debug\HerancaEmpregado.pdb
+C:\Users\Aluno\Documents\GitHub\info-eteczl\ds\03-MARCO\Heranca\HerancaEmpregado\HerancaEmpregado\obj\x86\Debug\HerancaEmpregado.exe
+C:\Users\Aluno\Documents\GitHub\info-eteczl\ds\03-MARCO\Heranca\HerancaEmpregado\HerancaEmpregado\obj\x86\Debug\HerancaEmpregado.pdb
+C:\Users\Aluno\Documents\GitHub\info-eteczl\ds\03-MARCO\Heranca\HerancaEmpregado\HerancaEmpregado\bin\Debug\HerancaEmpregado.exe
+C:\Users\Aluno\Documents\GitHub\info-eteczl\ds\03-MARCO\Heranca\HerancaEmpregado\HerancaEmpregado\bin\Debug\HerancaEmpregado.pdb

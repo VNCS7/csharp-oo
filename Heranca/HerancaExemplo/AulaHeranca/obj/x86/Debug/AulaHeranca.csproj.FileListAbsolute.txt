@@ -1,0 +1,4 @@
+C:\Users\vcalv\AppData\Local\Temporary Projects\AulaHeranca\bin\Debug\AulaHeranca.exe
+C:\Users\vcalv\AppData\Local\Temporary Projects\AulaHeranca\bin\Debug\AulaHeranca.pdb
+C:\Users\vcalv\AppData\Local\Temporary Projects\AulaHeranca\obj\x86\Debug\AulaHeranca.exe
+C:\Users\vcalv\AppData\Local\Temporary Projects\AulaHeranca\obj\x86\Debug\AulaHeranca.pdb

@@ -1,0 +1,12 @@
+C:\Users\ETEC_DEV\Desktop\GITHUB ETEC BACKUP\ds-master\03-MARCO\AulaHeranca\AnimaisHeranca\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.exe
+C:\Users\ETEC_DEV\Desktop\GITHUB ETEC BACKUP\ds-master\03-MARCO\AulaHeranca\AnimaisHeranca\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.pdb
+C:\Users\ETEC_DEV\Desktop\GITHUB ETEC BACKUP\ds-master\03-MARCO\Heranca\AnimaisHeranca\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.exe
+C:\Users\ETEC_DEV\Desktop\GITHUB ETEC BACKUP\ds-master\03-MARCO\Heranca\AnimaisHeranca\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.pdb
+C:\Users\ETEC_DEV\Desktop\GITHUB ETEC BACKUP\ds-master\03-MARCO\Heranca\OLD\AnimaisHeranca\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.exe
+C:\Users\ETEC_DEV\Desktop\GITHUB ETEC BACKUP\ds-master\03-MARCO\Heranca\OLD\AnimaisHeranca\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.pdb
+C:\Users\ETEC_DEV\Desktop\GITHUB ETEC BACKUP\ds-master\03-MARCO\Heranca\OLD\AnimaisHeranca\AnimaisHeranca\bin\Debug\AnimaisHeranca.exe
+C:\Users\ETEC_DEV\Desktop\GITHUB ETEC BACKUP\ds-master\03-MARCO\Heranca\OLD\AnimaisHeranca\AnimaisHeranca\bin\Debug\AnimaisHeranca.pdb
+C:\Users\ETEC_DEV\Documents\GitHub\info-eteczl\ds\03-MARCO\Heranca\HerancaAnimais\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.exe
+C:\Users\ETEC_DEV\Documents\GitHub\info-eteczl\ds\03-MARCO\Heranca\HerancaAnimais\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.pdb
+C:\Users\ETEC_DEV\Documents\GitHub\info-eteczl\ds\03-MARCO\Heranca\HerancaAnimais\AnimaisHeranca\bin\Debug\AnimaisHeranca.exe
+C:\Users\ETEC_DEV\Documents\GitHub\info-eteczl\ds\03-MARCO\Heranca\HerancaAnimais\AnimaisHeranca\bin\Debug\AnimaisHeranca.pdb
